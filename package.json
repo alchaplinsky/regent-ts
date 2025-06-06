@@ -1,5 +1,5 @@
 {
-  "name": "regent-ts",
+  "name": "@aspiratio/regent",
   "version": "0.1.0",
   "description": "TypeScript implementation of Regent AI agent framework",
   "main": "dist/index.js",
