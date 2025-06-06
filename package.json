@@ -1,0 +1,14 @@
+{
+  "name": "regent-ts",
+  "version": "0.1.0",
+  "description": "TypeScript implementation of Regent AI agent framework",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "@types/node": "^20.19.0",
+    "typescript": "^5.4.5"
+  }
+}
